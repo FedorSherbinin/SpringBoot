@@ -18,8 +18,7 @@
 Сначала клонируйте репозиторий:
 
 ```bash
-git clone <URL вашего репозитория>
-cd <имя_директории>
+git clone https://github.com/FedorSherbinin/SpringBoot.git
 Сборка проекта
 Убедитесь, что все зависимости установлены:
 
